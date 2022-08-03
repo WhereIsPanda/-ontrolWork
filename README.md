@@ -1,1 +1,1 @@
-# -ontrolWork
+![](CtrlWorkBlockShema.png)
